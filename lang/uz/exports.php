@@ -1,0 +1,45 @@
+<?php
+
+
+return [
+    'no.' => 'T/r',
+    'fullname' => 'To\'liq ismi',
+    'gender' => 'Jinsi',
+    'edu type' => 'Ta\'lim turi',
+    'edu form' => 'Ta\'lim shakli',
+    'pay type' => 'To\'lov turi',
+    'academic year' => 'O\'quv yili',
+    'academic group' => 'Akademik guruhi',
+    'Course' => 'Kursi',
+    'Semester' => 'Semestr',
+    'course' => 'kurs',
+    'semester' => 'semestr',
+    'organization' => 'Ish joyi',
+    'sector' => 'Soha',
+    'orientation' => 'Yo\'nalishga mosligi',
+    'document number' => 'Hujjat raqami',
+    'employee status' => 'Xodim statusi',
+    'phone' => 'Telefon raqami',
+    'passport' => 'Pasport',
+    'specialty' => 'Mutaxassislik',
+    'region' => 'Viloyat',
+    'district' => 'Tuman',
+    'live place' => 'Yashash joyi',
+    'male' => 'Erkak',
+    'female' => 'Ayol',
+    'students' => 'Talabalar',
+    'employment students' => 'Ish bilan ta\'minlangan talabalar',
+    'Employed_students' => 'Ishlaydigan_talabalar',
+    'JSHSHR' => 'JSHSHR',
+    'year' => 'Yil',
+    'Group' => 'Guruh',
+    'Subject' => 'Fan',
+    'Faculty' => 'Fakultet',
+    'Specialty_code' => 'Mutaxassislik_kodi',
+    'Message' => 'Xabar',
+    'Date' => 'Sana',
+    'Department' => 'Bo\'lim',
+
+
+
+];
